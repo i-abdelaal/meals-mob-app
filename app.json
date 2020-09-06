@@ -1,21 +1,20 @@
 {
   "expo": {
-    "name": "meal_app",
-    "slug": "meal_app",
+    "name": "menus",
+    "description": "Sample app for restaurants' menus",
+    "slug": "menues_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/menu_icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/menu.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
